@@ -20,7 +20,7 @@ Ce dépôt contient des travaux pratiques Hadoop couvrant le stockage de fichier
 BIGDATA_ENGINEERING_LABS/
 │
 ├── hadoop_lab0_lab2/              # Opérations HDFS
-│   ├── HadoopFileStatus.java     # Récupération métadonnées
+│   ├── HadoopFileStatus.java      # Récupération métadonnées
 │   ├── ReadHDFS.java              # Lecture depuis HDFS
 │   ├── HDFSWrite.java             # Écriture vers HDFS
 │   └── pom.xml
